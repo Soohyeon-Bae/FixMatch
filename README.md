@@ -1,8 +1,8 @@
 # FixMatch
 
-## FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence
+ FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence
 
-# A Combination of Approaches
+## A Combination of Approaches
 
 ![Diagram of FixMatch](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b37f6306-68cb-4de9-8ac3-434580a23c9c/Untitled.png)
 
@@ -52,7 +52,7 @@ Formula of Consistency Regularization
 
 ---
 
-# The Architecture of FixMatch
+## The Architecture of FixMatch
 
 - Weakly augmented 된 이미지를 사용하여 모델 추론함으로써 pseudo label을 만듦 → Pseudo Labeling
 - Threshold에 따라 추론 결과는 하나의 label을 가지게 되므로, One-hot vector로 바뀜 → Entropy Minimization
