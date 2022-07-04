@@ -50,7 +50,7 @@ Formula of Consistency Regularization
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/849f6649-7f9a-4be8-be0d-70a5d83da6d8/Untitled.png)
 
----
+
 
 ## The Architecture of FixMatch
 
@@ -62,7 +62,7 @@ Formula of Consistency Regularization
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f050d3d-916e-4eaa-81f8-7c42c8c4d1aa/Untitled.png)
 
-
+---
 
 Reference
 [](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf)
