@@ -29,7 +29,7 @@ Diagram of FixMatch
 4. Labeled data에 pseudo label을 가진 data 포함
 5. 반복
 
-이러한 반복 과정을 통해 labeled data는 조금씩 늘어가고, unlabeled data는 조금씩 줄어갑니다.
+이러한 반복 과정을 통해 labeled data는 조금씩 늘어가고, unlabeled data는 조금씩 줄어갑니다. 
 
 ### **Consistency Regularization**
 
